@@ -1,1 +1,1 @@
-# 123456
+calculate bands with hr.dat and POSCAR
